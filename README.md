@@ -1,5 +1,5 @@
 # super-simple-command-line-app
-Code for "Finally learn how to use command line apps… by making one!"
+Code for "[Finally learn how to use command line apps… by making one!](https://medium.com/@zackakil/finally-learn-how-to-use-command-line-apps-by-making-one-bd5cf21a15cd)"
 
 
 ```python
